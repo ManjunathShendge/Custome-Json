@@ -1,0 +1,5 @@
+/* For dark mode */
+.dark-collapse .ant-collapse-expand-icon {
+  color: #fff;
+  font-size: 16px;
+}
